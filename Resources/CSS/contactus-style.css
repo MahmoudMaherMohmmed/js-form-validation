@@ -1,0 +1,58 @@
+h1{
+    padding: 25px 0px;
+}
+.contcat-form {
+    max-width: 500px;
+    margin: 0px auto;
+}
+
+.contcat-form input,
+.contcat-form textarea{
+    margin-bottom: 15px;
+    padding-left: 40px;
+}
+
+.contcat-form textarea{
+    height: 180px !important;
+}
+
+.contcat-form i{
+    height: 0px;
+    float: left;
+    position: relative;
+    top: -40px;
+    left: 10px;
+    color: #9999a5;
+    font-size: 18px;
+}
+
+.contcat-form .button-icon{
+    float: none;
+    display: block;
+    position: relative;
+    top: -40px;
+    left: 10px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.contcat-form .astr{
+    display: block;
+    float: right;
+    position: relative;
+    left: -20px;
+    top: -45px;
+    color: red;
+    font-size: 30px;
+    display: none;
+}
+
+.contcat-form .message-astr{
+    top: -185px;
+}
+
+.contcat-form .custom-alert{
+    padding: 9px 10px;
+    display: none;
+}
+
